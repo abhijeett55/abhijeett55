@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Biswas</h1>
 <h3 align="center">Software Developer && Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ4aDR6N2NuYThtcGg3dG94NjNlZWpiMzBldGF6MnByYXdrd2phdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif">
-<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeett55&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeett55" /> </p>
 
