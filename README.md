@@ -53,9 +53,6 @@ I specialize in **C++/C, backend systems, and mobile development/Kotlin**, and I
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeett55&show_icons=true&locale=en&layout=compact" alt="abhijeett55" />
-</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeett55&show_icons=true&locale=en" alt="abhijeett55" /></p>
 
