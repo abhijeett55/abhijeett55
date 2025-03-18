@@ -52,7 +52,7 @@ I specialize in **C++/C, backend systems, and mobile development/Kotlin**, and I
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C++, Java, Rust, Kotlin, JavaScript
+- **Languages:** C++, Java, Rust, Kotlin, JavaScript , C
 - **Frontend:** React, TailwindCSS, Bootstrap, HTML5, CSS3
 - **Backend:** Spring Boot, Node.js, Express.js, Firebase
 - **Databases:** MySQL, MongoDB, PostgreSQL, SQLite
