@@ -28,6 +28,7 @@
 
 ### 👨‍💻 About Me
 I'm a passionate software developer currently pursuing **Master of Computer Application** at **VIT Bhopal**. 
+
 I specialize in **C++/C, backend systems, and mobile development/Kotlin**, and I love solving complex problems using **DSA**.
 
 ### 📫 Connect with me
