@@ -19,11 +19,6 @@
 
 ---
 
-### 🚀 Projects
-- 🎵 **Swara** – A real-time music streaming app. [Repo](https://github.com/abhijeett55/Swara)
-- 💰 **MMA Gambling App** – A betting app focused on MMA. [Repo](https://github.com/abhijeett55/PayBout)
-- 🛒 **Posifista** – A POS system built with Kotlin. [Repo](https://github.com/abhijeett55/Posi)
-
 ---
 
 ### 👨‍💻 About Me
