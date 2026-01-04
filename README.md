@@ -34,16 +34,8 @@ I specialize in **C++/C,Rust,Java and work on backend systems, and mobile develo
 <a href="https://codeforces.com/profile/abhijeett55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhijeett55" height="30" width="40" /></a>
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhijeett55&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-
-
 ---
 
 ### 🛠️ Tech Stack
