@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Abhijeet Biswas</h1>
+<h1 align="center">Hello there👋, I'm Abhijeet Biswas</h1>
 <h3 align="center">Software Developer && Problem Solver</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ4aDR6N2NuYThtcGg3dG94NjNlZWpiMzBldGF6MnByYXdrd2phdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif">
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Stash](https://github.com/abhijeett55/Stash.git)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m Primarily Working on **Scalable Backend System and System Application**
 
 - 💬 Ask me about **Data Structure and Algorithm**
 
@@ -42,8 +42,8 @@ I specialize in **C++/C,Rust,Java and work on backend systems, and mobile develo
 - **Languages:** C++, Java, Rust, JavaScript , C
 - **Frontend:** React, TailwindCSS, Bootstrap, HTML5, CSS3
 - **Backend:** Spring Boot, QT, AXUM
-- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite
-- **Tools:** Git, Postman,
+- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite, Firebase, Supabase
+- **Tools:** Git, Postman, 
 
 ---
 
