@@ -22,9 +22,9 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate software developer currently pursuing **Master of Computer Application** at **VIT Bhopal**. 
+I'm a software developer pursued **Master of Computer Application** at **VIT University**.
+Graduated in Bachelor of Computer Science from **Mumbai University**.
 
-I specialize in **C++/C,Rust,Java and work on backend systems, and mobile development**, and I love to work solving complex problems using **DSA**.
 
 ### 📫 Connect with me
 <p align="left">
@@ -39,9 +39,9 @@ I specialize in **C++/C,Rust,Java and work on backend systems, and mobile develo
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C++, Java, Rust, JavaScript , C
+- **Languages:** C++, Java, Rust, JavaScript , C, TypeScript
 - **Frontend:** React, TailwindCSS, Bootstrap, HTML5, CSS3
-- **Backend:** Spring Boot, QT, AXUM
+- **Framework** Spring Boot, QT, AXUM, Angular
 - **Databases:** MySQL, MongoDB, PostgreSQL, SQLite, Firebase, Supabase
 - **Tools:** Git, Postman, 
 
