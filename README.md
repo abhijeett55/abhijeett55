@@ -44,8 +44,15 @@ Graduated in Bachelor of Computer Science from **Mumbai University**.
 - **Framework** Spring Boot, QT, AXUM, Angular
 - **Databases:** MySQL, MongoDB, PostgreSQL, SQLite, Firebase, Supabase
 - **Tools:** Git, Postman, 
-
 ---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=abhijeett55&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhijeett55&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeett55&layout=compact&theme=radical)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhijeett55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
