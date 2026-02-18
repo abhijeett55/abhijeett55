@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeett55&column=4&theme=algolia" alt="abhijeett55" /></a> </p>
 
-- 🔭 I’m currently working on [Stash](https://github.com/abhijeett55/Stash.git)
+---
 
 - 🌱 I’m Primarily Working on **Scalable Backend System and System Application**
 
@@ -19,12 +19,11 @@
 
 ---
 
----
-
 ### 👨‍💻 About Me
 I'm a software developer pursued **Master of Computer Application** at **VIT University**.
 Graduated in Bachelor of Computer Science from **Mumbai University**.
 
+---
 
 ### 📫 Connect with me
 <p align="left">
@@ -39,34 +38,36 @@ Graduated in Bachelor of Computer Science from **Mumbai University**.
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C++, Java, Rust, JavaScript , C, TypeScript
-- **Frontend:** React, TailwindCSS, Bootstrap, HTML5, CSS3
-- **Framework** Spring Boot, QT, AXUM, Angular
+- **Languages:** C++, Java, Rust, JavaScript, C, TypeScript
+- **Framework** Spring Boot, QT, Axum , Angular, React
 - **Databases:** MySQL, MongoDB, PostgreSQL, SQLite, Firebase, Supabase
-- **Tools:** Git, Postman, 
+- **Tools:** Git, Postman,
+
 ---
 
-## 📊 GitHub Stats
+### 📊 Engineering Dashboard
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijeett55&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" /> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=abhijeett55&show_icons=true&theme=radical)
+---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhijeett55&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeett55&layout=compact&theme=radical)
-
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhijeett55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhijeett55&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeett55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 📈 Contribution Graph
+### 🌟 3D Contribution Calendar
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=abhijeett55&theme=react-dark)
+![](https://github-profile-3d-contrib.vercel.app/?username=abhijeett55)
 
 ---
 
-## 🌟 3D Contribution Calendar
+### 🌟 3D Contribution Calendar
 
 ![](https://github-profile-3d-contrib.vercel.app/?username=abhijeett55)
+
+---
+
+### 🔥 Contribution Intensity
+<p align="center"> <img src="https://github-profile-3d-contrib.vercel.app/?username=abhijeett55&bg_color=0d1117" /> </p>
