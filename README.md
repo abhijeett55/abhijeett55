@@ -59,6 +59,14 @@ Graduated in Bachelor of Computer Science from **Mumbai University**.
 ![](https://nirzak-streak-stats.vercel.app/?user=abhijeett55&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeett55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=abhijeett55&theme=react-dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhijeett55&icon=7&color=6)](https://visitcount.itsvg.in)
+
+## 🌟 3D Contribution Calendar
+
+![](https://github-profile-3d-contrib.vercel.app/?username=abhijeett55)
