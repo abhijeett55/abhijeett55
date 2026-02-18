@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hello there👋, I'm Abhijeet Biswas</h1>
 <h3 align="center">Software Developer && Problem Solver</h3>
 
@@ -19,13 +17,13 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 I'm a software developer pursued **Master of Computer Application** at **VIT University**.
 Graduated in Bachelor of Computer Science from **Mumbai University**.
 
 ---
 
-### 📫 Connect with me
+## 📫 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/abhijeett55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeett" height="30" width="40" /></a>
 <a href="https://instagram.com/abhijeett55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeett55" height="30" width="40" /></a>
@@ -45,26 +43,12 @@ Graduated in Bachelor of Computer Science from **Mumbai University**.
 
 ---
 
-### 📊 Engineering Dashboard
+## 📊 Engineering Dashboard
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijeett55&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" /> </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhijeett55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhijeett55&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeett55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=abhijeett55&theme=radical)
-
----
-
-### 🌟 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/?username=abhijeett55&bg_color=0d1117" />
-</p>
