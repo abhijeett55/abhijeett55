@@ -57,17 +57,14 @@ Graduated in Bachelor of Computer Science from **Mumbai University**.
 
 ---
 
-### 🌟 3D Contribution Calendar
+## 🏆 GitHub Trophies
 
-![](https://github-profile-3d-contrib.vercel.app/?username=abhijeett55)
-
----
-
-### 🌟 3D Contribution Calendar
-
-![](https://github-profile-3d-contrib.vercel.app/?username=abhijeett55)
+![](https://github-profile-trophy.vercel.app/?username=abhijeett55&theme=radical)
 
 ---
 
-### 🔥 Contribution Intensity
-<p align="center"> <img src="https://github-profile-3d-contrib.vercel.app/?username=abhijeett55&bg_color=0d1117" /> </p>
+### 🌟 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/?username=abhijeett55&bg_color=0d1117" />
+</p>
