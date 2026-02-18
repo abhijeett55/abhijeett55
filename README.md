@@ -1,8 +1,6 @@
 <h1 align="center">Hello there👋, I'm Abhijeet Biswas</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQ4aDR6N2NuYThtcGg3dG94NjNlZWpiMzBldGF6MnByYXdrd2phdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif">
-
 ---
 
 - 🌱 I’m Primarily Working on **Scalable Backend System and System Application**
